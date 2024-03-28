@@ -1,6 +1,6 @@
 import {Chart} from "react-google-charts";
 
-export function TlcSimple() {
+export default function TlcSimple() {
     const columns = [
         {type: "string", id: "President"},
         {type: "date", id: "Start"},

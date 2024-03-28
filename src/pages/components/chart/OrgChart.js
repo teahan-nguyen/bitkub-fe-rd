@@ -66,7 +66,7 @@ const Controls = () => {
     );
 };
 
-export function OrgChart() {
+export default function OrgChart() {
     return (
         <TransformWrapper
             initialScale={1}

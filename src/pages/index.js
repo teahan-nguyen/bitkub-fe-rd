@@ -1,5 +1,5 @@
-import {OrgChart} from "@/pages/components/chart/OrgChart";
-import {TimelineChart} from "@/pages/components/chart/TimelineChart";
+import OrgChart from "@/pages/components/chart/OrgChart";
+import TimelineChart from "@/pages/components/chart/TimelineChart";
 import React from 'react';
 
 export default function Home() {

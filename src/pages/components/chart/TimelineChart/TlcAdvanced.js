@@ -1,6 +1,6 @@
 import {Chart} from "react-google-charts";
 
-export function TlcAdvanced() {
+export default function TlcAdvanced() {
     const data = [
         [
             {type: "string", id: "Position"},
